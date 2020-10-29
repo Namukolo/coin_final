@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "3984472666",
+    "firebase_url": "https://loyalty-f2286.firebaseio.com",
+    "project_id": "loyalty-f2286",
+    "storage_bucket": "loyalty-f2286.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3984472666:android:579bf916c9bd2d455c3663",
+        "android_client_info": {
+          "package_name": "com.example.loyalty_points"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3984472666-u18hcobt2joh001t6d6in8c79u31aill.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loyalty_points",
+            "certificate_hash": "6c01af428a4e11d21e9484e80029c7255bc157d5"
+          }
+        },
+        {
+          "client_id": "3984472666-i1fgn60ti8shhl1rdubfmkaju9df4r5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJiABiu0vaf8lWP6E7NZK1olnAxw2XBkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3984472666-i1fgn60ti8shhl1rdubfmkaju9df4r5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
